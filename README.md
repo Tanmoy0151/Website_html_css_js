@@ -1,2 +1,3 @@
 # Website_html_css_js
-This is an website build with html css and js 
+This is a website built with html css and js 
+Also use it for git practice 
